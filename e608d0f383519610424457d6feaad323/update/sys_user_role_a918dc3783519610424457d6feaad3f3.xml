@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <limit_concurrent_sessions>false</limit_concurrent_sessions>
+        <name>x_1057524_testing.new_role</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1057524_testing.new_role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 21:19:46</sys_created_on>
+        <sys_id>a918dc3783519610424457d6feaad3f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1057524_testing.new_role</sys_name>
+        <sys_package display_value="Testing" source="x_1057524_testing">e608d0f383519610424457d6feaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing">e608d0f383519610424457d6feaad323</sys_scope>
+        <sys_update_name>sys_user_role_a918dc3783519610424457d6feaad3f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 21:19:46</sys_updated_on>
+    </sys_user_role>
+</record_update>
